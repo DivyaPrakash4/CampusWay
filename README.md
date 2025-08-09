@@ -37,43 +37,10 @@
 ---
 
 ## 📂 Project Structure
-campuway/
-├── backend/ (Spring Boot)
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/Nav/
-│   │   │   │   ├── controller/
-│   │   │   │   │   └── NavigationController.java
-│   │   │   │   ├── model/
-│   │   │   │   │   ├── Graph.java
-│   │   │   │   │   └── Path.java
-│   │   │   │   ├── service/
-│   │   │   │   │   └── DijkstraService.java
-│   │   │   │   └── NavApplication.java (main class)
-│   │   │   └── resources/
-│   │   │       ├── application.properties
-│   │   │       └── (other resources)
-│   │   └── test/ (test files)
-│   └── pom.xml
-│
-└── frontend/ (React)
-    ├── public/
-    │   ├── index.html
-    │   └── (other public assets)
-    ├── src/
-    │   ├── components/
-    │   │   ├── GraphNode.jsx
-    │   │   ├── GraphLines.jsx
-    │   │   ├── NodeSelector.jsx
-    │   │   ├── PathResult.jsx
-    │   │   └── useNavigation.js (custom hook)
-    │   ├── App.jsx
-    │   ├── App.css
-    │   ├── main.jsx
-    │   └── index.css
-    ├── package.json
-    ├── vite.config.js
-    └── (other config files)
+<img width="605" height="595" alt="image" src="https://github.com/user-attachments/assets/072f6480-6bd3-4b75-a711-6d0d51e614fd" />
+<img width="559" height="623" alt="image" src="https://github.com/user-attachments/assets/391a4041-95fd-491e-9d3c-a5f61aa95112" />
+
+
 
 ## 📸 Screenshots
 <img width="1097" height="675" alt="image" src="https://github.com/user-attachments/assets/03246920-67e2-4826-9405-9cf56970eec1" />
