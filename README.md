@@ -33,7 +33,6 @@
 ### **Other Tools**
 - Git & GitHub
 - VS Code / IntelliJ IDEA
-- Node.js
 
 ---
 
@@ -77,3 +76,14 @@ campuway/
     └── (other config files)
 
 ## 📸 Screenshots
+<img width="1097" height="675" alt="image" src="https://github.com/user-attachments/assets/03246920-67e2-4826-9405-9cf56970eec1" />
+<img width="1117" height="678" alt="image" src="https://github.com/user-attachments/assets/78c983e3-e5c8-4301-acf8-05108fb595d0" />
+<img width="1125" height="691" alt="image" src="https://github.com/user-attachments/assets/ffe4e6d0-10a7-4dd7-b7b9-0192d2b3daea" />
+
+## 📌 Use Cases
+- Navigation for new students & visitors.
+- Event guidance during college fests.
+- Accessibility support for large campuses.
+
+
+
